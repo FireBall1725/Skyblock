@@ -1,0 +1,21 @@
+{
+	"dimensions": [
+		{
+			"dim": -2,
+			"override": true,
+			"biome": "advancedrocketry:space",
+			"dimensiontype": {
+				"id": -2,
+				"keeploaded": true,
+				"worldprovider": "zmaster587.advancedRocketry.world.provider.WorldProviderSpace"
+			},
+			"worldinfo": {
+				"generatorName": "voidworld",
+				"GameRules": {
+					"doDaylightCycle": "false",
+					"doWeatherCycle": "false"
+				}
+			}
+		}
+  ]
+}
